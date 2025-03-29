@@ -4,6 +4,8 @@ NER labeling for handbag dataset
 
 Baseline F1 Score to beat: 0.800
 
+An educational way to keep your laptop busy while you're on vacation
+
 ---
 
 ## Model 2.3
